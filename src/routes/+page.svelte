@@ -1,13 +1,14 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<header class="navbar flex-col">
+  <div class="navbar-center">
+    <a class="btn btn-ghost" href="https://spotifyd.github.io/spotifyd/">Docs</a>
+    <a class="btn btn-ghost" href="https://github.com/Spotifyd/spotifyd">GitHub</a>
+    <a class="btn btn-ghost" href="https://matrix.to/#/#spotifyd:matrix.org">Matrix</a>
+  </div>
+</header>
 
-<p class="text-3xl font-bold underline">This is another block of content.</p>
-
-<style lang="postcss">
-  :global(html) {
-    background-color: theme(colors.gray.100)
-  }
-</style>
-
-
-<button class="btn">Hello from</button>
+<main class="hero min-h-[30em]">
+  <div class="hero-content text-center flex-col min-h-full">
+    <h1 class="text-5xl font-bold">spotifyd</h1>
+    <div><h2 class="text-3xl">An open source Spotify client running as a UNIX daemon.</h2></div>
+  </div>
+</main> 
