@@ -1,6 +1,6 @@
 <header class="navbar flex-col">
   <div class="navbar-center">
-    <a class="btn btn-ghost" href="https://spotifyd.github.io/spotifyd/">Docs</a>
+    <a class="btn btn-ghost" href="https://docs.spotifyd.rs/">Docs</a>
     <a class="btn btn-ghost" href="https://github.com/Spotifyd/spotifyd">GitHub</a>
     <a class="btn btn-ghost" href="https://matrix.to/#/#spotifyd:matrix.org">Matrix</a>
     <a class="btn btn-ghost" href="https://github.com/Spotifyd/spotifyd/releases">Download</a>
